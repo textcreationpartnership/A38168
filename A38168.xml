@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Votes and declarations of both Houses of Parliament concerning the taking away and disanulling the power of the clergie in making constitutions with a declaration prohibiting the reading in all churches, chappells, and else where, His Maiesties proclamations, declarations, and other printed papers of the same nature and consequence.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38168</idno><idno type="EEBO-CITATION">23227668</idno>
+  <idno type="VID">109496</idno>
+  <idno type="EEBO-PROQUEST">2248544400</idno>
+  
+            <idno type="STC">Wing E2439</idno>
+            <idno type="STC">ESTC R42013</idno>
+            <idno type="OCLC">23227668</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A38168)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109496)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1700:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Votes and declarations of both Houses of Parliament concerning the taking away and disanulling the power of the clergie in making constitutions with a declaration prohibiting the reading in all churches, chappells, and else where, His Maiesties proclamations, declarations, and other printed papers of the same nature and consequence.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>6 [i.e. 8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for F.L. and W.G.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>Iuly 14. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Page 8 misnumbered 6.</note>
+                  <note>"Mercurii 12. Iuly 1642. Ordered by the Lords and Commons in Parliament, that these ... be forthwith printed and published. Io. Brown Clarc. [sic] Parl."</note>
+                  <note>Reproduction of the original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Church and state --  England --  17th century.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:109496:1"/>
+            <p>VOTES AND DECLARATIONS of both Houses of PARLIAMENT, Concerning the taking away and disanulling the power of the Clergie in making Constitutions: WITH A DECLARATION prohibiting the reading in all Chur<g ref="char:EOLhyphen"/>ches, Chappells, and else where, his Maiesties Proclamations, Declarations, and other Printed papers of the same nature and consequence.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license" subtype="order_to_print">
+                        <opener>
+                           <dateline>
+                              <date>Mercurii 12. Iuly 1642.</date>
+                           </dateline>
+                        </opener>
+                        <p>Ordered by the Lords and Commons in Parlia<g ref="char:EOLhyphen"/>ment, that these Votes and Declaration be forthwith Printed and published.</p>
+                        <closer>
+                           <signed>Io. Brown Clarc. Parl.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Printed for <hi>F. L.</hi> and <hi>W. G. Iuly</hi> 14. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="votes_and_declarations">
+            <pb facs="tcp:109496:2"/>
+            <pb facs="tcp:109496:2"/>
+            <head>Votes of both Houses of Parliament.</head>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Die Sabbathi</hi> the twelfth of <hi>June.</hi> 1641.</date>
+               </dateline>
+            </opener>
+            <div type="resolution">
+               <opener>Resolved upon the Que<g ref="char:EOLhyphen"/>stion.</opener>
+               <p>
+                  <seg rend="decorInit">T</seg>Hat the Clergy of <hi>England</hi> convented in any convocation or Synode, or otherwise have no power to make any Consti<g ref="char:EOLhyphen"/>tutions, Cannons or Articles whatsoever, in matter of Doc<g ref="char:EOLhyphen"/>trine and Discipline, or otherwise, to binde the Clergy or the Laity of this Land, without common consent of Parliament.</p>
+            </div>
+            <div type="resolution">
+               <pb facs="tcp:109496:3"/>
+               <opener>Resolved upon the Question, <hi>N<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>o contra-dicente.</hi>
+               </opener>
+               <p>THat the severall Constitutions and Canons Ecclesiasticall, treated upon by the <hi>Arch-Bishops</hi> of <hi>Canterbury</hi> and <hi>Yorke,</hi> Presidents of the Convocations for the respective Provinces of <hi>Canterbury</hi> and <hi>Yorke</hi> and the rest of the Bishops and Clergie of those Provinces, and agreed upon with the Kings Ma<g ref="char:EOLhyphen"/>iesties Licence in their severall Synods, begun at <hi>London</hi> and <hi>Yorke,</hi> 1640. doe not binde the Clergy or Laity of the Land, by either of them.</p>
+            </div>
+            <div type="resolution">
+               <opener>Resolved upon the Question.</opener>
+               <p>THat these canons and constitutions Eccle<g ref="char:EOLhyphen"/>siasticall, Treated upon by the <hi>Arch-Bi<g ref="char:EOLhyphen"/>shops</hi> of <hi>Canterbury</hi> and <hi>York,</hi> Presi<g ref="char:EOLhyphen"/>dents of the Convocations for the respective Pro<g ref="char:EOLhyphen"/>vinces of <hi>Canterbury</hi> and <hi>York,</hi> and the rest of the Bishops and Clergie of those Provinces, and agreed upon by the Kings Maiesties Licence in their severall Synods begun at <hi>London</hi> and
+<pb facs="tcp:109496:3"/>
+                  <hi>Yorke,</hi> in the yeare 1640. do maintain in them many matters, contrary to the Kings Prerogative, to the fun<g ref="char:EOLhyphen"/>damentall Lawes ard Liberties of this Realme, To the right of Parliaments, To the Propriety and Liberty of the Subiects, and matters tending to Sedition, and of a dangerous consequence.</p>
+            </div>
+         </div>
+         <div type="declaration">
+            <pb facs="tcp:109496:4"/>
+            <opener>
+               <dateline>
+                  <date>Die Martis 5<seg rend="sup">th.</seg> Iuly, 1642.</date>
+               </dateline>
+            </opener>
+            <p>VVHereas severall Proclama<g ref="char:EOLhyphen"/>tions, Declarations and pa<g ref="char:EOLhyphen"/>pers in formes of Proclamations have issued out in his Maiesties name com<g ref="char:EOLhyphen"/>manding Parsons, Vicars, Curates, and Sheriffes, Mayors, Bailiffes, and other officers to publish and pro<g ref="char:EOLhyphen"/>claime the same, being contrary to the same, and divers Orders, Ordinan<g ref="char:EOLhyphen"/>ces and Declarations of both Houses of Parliament, and much to the scan<g ref="char:EOLhyphen"/>dall and derogation of both the said Houses. Be it ordered and declared by the Lords and Commons in Par<g ref="char:EOLhyphen"/>liament, that noe Sheriffe, Mayor, Bailiffe, Parson, Vicar, Curate, or o<g ref="char:EOLhyphen"/>ther
+<pb facs="tcp:109496:4"/> Officers shall from henceforth publish or proclaime, or cause to bee proclaimed or published, any such Proclamations, Declarations, or pa<g ref="char:EOLhyphen"/>pers which are or shall bee contrary to any Order Ordinance or Decla<g ref="char:EOLhyphen"/>ration of the said Houses of Parlia<g ref="char:EOLhyphen"/>ment, or tending to the scandall or derogation of their proceedings, but shall use all lawfull waies and meanes to restraine and hinder the proclai<g ref="char:EOLhyphen"/>ming or publishing thereof, and all Sheriffes, Mayors, Bayliffes, parsons, Vicars, and Curates, or other offi<g ref="char:EOLhyphen"/>cers that have forborne or refused, or shall forbeare or refuse to publish or proclaime any such Procla<g ref="char:EOLhyphen"/>mation Declaration or papers as aforesaid, or have or shall hinder the publication thereof, shall be pro<g ref="char:EOLhyphen"/>tected
+<pb facs="tcp:109496:5"/> by the power and authority of both Houses of Parliament.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license" subtype="order_to_print">
+                        <opener>
+                           <dateline>
+                              <date>Mercurii. 12. July 1642.</date>
+                           </dateline>
+                        </opener>
+                        <p>Ordered by the Lords and Commons in Parliament, that the above said Votes and Declaration bee forthwith Printed and published.</p>
+                        <closer>
+                           <signed>
+                              <hi>Iohn Browne,</hi> Cleric. Parliamentorum.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:109496:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
